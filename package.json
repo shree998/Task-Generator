@@ -1,0 +1,19 @@
+{
+  "name": "task-generator",
+  "version": "1.0.0",
+  "description": "A simple web app created using Vanilla JS, that can add items to the list, strike off when completed and remove when required.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shree998/Task-Generator.git"
+  },
+  "author": "Shree Nandan Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shree998/Task-Generator/issues"
+  },
+  "homepage": "https://github.com/shree998/Task-Generator#readme"
+}
